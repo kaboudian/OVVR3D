@@ -1162,7 +1162,7 @@ function loadWebGL()
     } ) ;
     env.vrc.setCP(4) ;
     env.vrc.addMessage(
-        '3D ORTP Model by Abouzar Kaboudian @ CHAOS Lab',
+        '3D OVVR Model by Abouzar Kaboudian @ CHAOS Lab',
         0.5,
         0.05,
         {
